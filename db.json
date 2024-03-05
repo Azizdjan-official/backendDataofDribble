@@ -1,198 +1,521 @@
-
 {
-  "cards": [
+  "users": [],
+  "banner": [
+      {
+        "image":"https://raw.githubusercontent.com/Azizdjan-official/gipermarket_database/master/data/image/banner.png"
+      },
+      {
+        "image":"https://raw.githubusercontent.com/Azizdjan-official/gipermarket_database/master/data/image/banner.png"
+      },
+      {
+        "image":"https://raw.githubusercontent.com/Azizdjan-official/gipermarket_database/master/data/image/banner.png"
+      }
+    ],
+  "category": [
+      {
+        "id": 1,
+        "title": "Смартфоны и планшеты",
+        "datakey":"phone",
+        "categorykey": "laptop",
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/phone_category.png"
+      },
+      {
+        "id": 2,
+        "title": "Ноутбуки",
+        "datakey":"phone",
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/laptop_category.png"
+      },
+      {
+        "id": 3,
+        "title": "Авто мото товары",
+        "datakey":"phone",
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/avto_category.png"
+      },
+      {
+        "id": 4,
+        "title": "Компьютеры для геймеров",
+        "datakey":"phone",
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/game_category.png"
+      },
+      {
+        "id": 5,
+        "title": "Бытовая техника",
+        "datakey":"phone",
+        "image": "https://raw.githubusercontent.com/Azizdjan-official/gipermarket_database/master/data/image/tenika-category.png"
+      }
+
+    ],
+  "action":[
+      {
+        "image": "https://raw.githubusercontent.com/Azizdjan-official/gipermarket_database/master/data/image/aksiya1.png"
+      },
+      {
+        "image":"https://raw.githubusercontent.com/Azizdjan-official/gipermarket_database/master/data/image/aksiya2.png"
+      },
+      {
+        "image":"https://raw.githubusercontent.com/Azizdjan-official/gipermarket_database/master/data/image/aksiya3.png"
+      }
+    ],
+  "brand": [
+      {
+        "id": 1,
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand1.png"
+      },
+      {
+        "id": 2,
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand2.png"
+      },
+      {
+        "id": 3,
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand3.png"
+      },
+      {
+        "id": 4,
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand4.png"
+      },
+      {
+        "id": 5,
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand5.png"
+      },
+      {
+        "id": 6,
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand6.png"
+      },
+      {
+        "id": 7,
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand7.png"
+      },
+      {
+        "id": 8,
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand8.png"
+      },
+      {
+        "id": 9,
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand9.png"
+      },
+      {
+        "id": 10,
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand10.png"
+      },
+      {
+        "id": 11,
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand11.png"
+      },
+      {
+        "id": 12,
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand12.png"
+      },
+      {
+        "id": 13,
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand13.png"
+      },
+      {
+        "id": 14,
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand14.png"
+      },
+      {
+        "id": 15,
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand15.png"
+      },
+      {
+        "id": 16,
+        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand16.png"
+      }
+    ],
+  "phone": [
     {
-      "id":1,
-      "image": "https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image.png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image.png",
-      "name":"Zauri Miminoshvili",
-      "likes": 70,
-      "views":8.5
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(2).png",
+      "title": "Samsung Galaxy A34 5G 8/128 GB Awesome Graphite (Бывший",
+      "brand": "MI",
+      "price": 270,
+      "id": 1
     },
     {
-      "id":2,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(1).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(1).png",
-      "name":"Purrweb UI/UX Age",
-      "likes": 188,
-      "views":9.8
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(3).png",
+      "title": "Redmi Note 13 Pro Black 8/128 GB",
+      "brand": "MI",
+      "price": 400,
+      "id": 2
     },
     {
-      "id":3,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(2).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(2).png",
-      "name":"Squarespace",
-      "likes": 188,
-      "views":9.8
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(4).png",
+      "title": "Product 1",
+      "brand": "MI",
+      "price": 150,
+      "id": 3
     },
     {
-      "id":4,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(3).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(3).png",
-      "name":"Purrweb UI/UX Ag",
-      "likes": 365,
-      "views":34.5
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(5).png",
+      "title": "Xiaomi Redmi Note 11S 6/128 GB Graphite Gray (Бывший в употреблении)",
+      "brand": "MI",
+      "price": 300,
+      "id": 4
     },
     {
-      "id": 5,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(4).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(4).png",
-      "name":"Vedant Hegde",
-      "likes": 210,
-      "views":18.5
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone.png",
+      "title": "Samsung Galaxy A14 4/128 GB Чёрный (Бывший в",
+      "brand": "MI",
+      "price": 150,
+      "id": 5
     },
     {
-      "id":6,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(5).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(5).png",
-      "name":"Alex Go & Co",
-      "likes": 85,
-      "views":5.6
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(2).png",
+      "title": "Samsung Galaxy A34 5G 8/128 GB Awesome Graphite (Бывший",
+      "brand": "MI",
+      "price": 270,
+      "id": 6
     },
     {
-      "id": 7,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(6).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(6).png",
-      "name":"Vladimir Rakshâ 🇺🇦",
-      "likes": 161,
-      "views":21.7
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(3).png",
+      "title": "Redmi Note 13 Pro Black 8/128 GB",
+      "brand": "MI",
+      "price": 400,
+      "id": 7
     },
     {
-      "id": 8,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(7).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(7).png",
-      "name":"Ofspace UX/UI",
-      "likes": 133,
-      "views":17.2
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(4).png",
+      "title": "Product 1",
+      "brand": "MI",
+      "price": 150,
+      "id": 8
     },
     {
-      "id":9,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(8).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(8).png",
-      "name":"Steve Wolf",
-      "likes": 78,
-      "views":13.8
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(5).png",
+      "title": "Xiaomi Redmi Note 11S 6/128 GB Graphite Gray (Бывший в употреблении)",
+      "brand": "MI",
+      "price": 300,
+      "id": 9
     },
     {
-      "id":10,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(9).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(9).png",
-      "name":"Type08 (Alen Pavlovic)",
-      "likes": 38,
-      "views":4
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone.png",
+      "title": "Samsung Galaxy A14 4/128 GB Чёрный (Бывший в",
+      "brand": "MI",
+      "price": 150,
+      "id": 10
     },
     {
-      "id":11,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(10).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(10).png",
-      "name":"Squarespace",
-      "likes": 188,
-      "views":9.8
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(2).png",
+      "title": "Samsung Galaxy A34 5G 8/128 GB Awesome Graphite (Бывший",
+      "brand": "MI",
+      "price": 270,
+      "id": 11
     },
     {
-      "id":12,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(11).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(11).png",
-      "name":"Ben Stafford",
-      "likes": 140,
-      "views":42.9
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(3).png",
+      "title": "Redmi Note 13 Pro Black 8/128 GB",
+      "brand": "MI",
+      "price": 400,
+      "id": 12
     },
     {
-      "id":13,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(12).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(12).png",
-      "name":"emote_agency",
-      "likes": 128,
-      "views":19.6
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(4).png",
+      "title": "Product 1",
+      "brand": "MI",
+      "price": 150,
+      "id": 13
     },
     {
-      "id":14,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(13).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(13).png",
-      "name":"Brethren Design Co",
-      "likes": 56,
-      "views":7.9
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(5).png",
+      "title": "Xiaomi Redmi Note 11S 6/128 GB Graphite Gray (Бывший в употреблении)",
+      "brand": "MI",
+      "price": 300,
+      "id": 14
     },
     {
-      "id":15,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(14).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(14).png",
-      "name":"Slick",
-      "likes": 111,
-      "views":11.6
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone.png",
+      "title": "Samsung Galaxy A14 4/128 GB Чёрный (Бывший в",
+      "brand": "MI",
+      "price": 150,
+      "id": 15
     },
     {
-      "id":16,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(15).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(15).png",
-      "name":"Open Purpose®",
-      "likes": 91,
-      "views":16.9
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(2).png",
+      "title": "Samsung Galaxy A34 5G 8/128 GB Awesome Graphite (Бывший",
+      "brand": "MI",
+      "price": 270,
+      "id": 16
     },
     {
-      "id":17,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(16).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(16).png",
-      "name":"MUTI",
-      "likes": 103,
-      "views":25.7
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(3).png",
+      "title": "Redmi Note 13 Pro Black 8/128 GB",
+      "brand": "MI",
+      "price": 400,
+      "id": 17
     },
     {
-      "id":18,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(17).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(17).png",
-      "name":"Commence Studio",
-      "likes": 146,
-      "views":25.6
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(4).png",
+      "title": "Product 1",
+      "brand": "MI",
+      "price": 150,
+      "id": 18
     },
     {
-      "id":19,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(18).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(18).png",
-      "name":"Ethan Fender",
-      "likes": 77,
-      "views":13
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(5).png",
+      "title": "Xiaomi Redmi Note 11S 6/128 GB Graphite Gray (Бывший в употреблении)",
+      "brand": "MI",
+      "price": 300,
+      "id": 19
     },
     {
-      "id": 20,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(19).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(19).png",
-      "name":"blacklead studio",
-      "likes": 199,
-      "views": 39.4
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone.png",
+      "title": "Samsung Galaxy A14 4/128 GB Чёрный (Бывший в",
+      "brand": "MI",
+      "price": 150,
+      "id": 20
     },
     {
-      "id":21,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(20).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(20).png",
-      "name":"Anastasia Golovko",
-      "likes": 211,
-      "views": 14
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(2).png",
+      "title": "Samsung Galaxy A34 5G 8/128 GB Awesome Graphite (Бывший",
+      "brand": "MI",
+      "price": 270,
+      "id": 21
     },
     {
-      "id": 22,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(21).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(21).png",
-      "name":"Rwds",
-      "likes": 74,
-      "views": 11.3
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(3).png",
+      "title": "Redmi Note 13 Pro Black 8/128 GB",
+      "brand": "MI",
+      "price": 400,
+      "id": 22
     },
     {
-      "id":23,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(22).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(22).png",
-      "name":"Josh Warren",
-      "likes": 107,
-      "views":22.4
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(4).png",
+      "title": "Product 1",
+      "brand": "MI",
+      "price": 150,
+      "id": 23
     },
     {
-      "id":24,
-      "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/images/Image%20(23).png",
-      "personalimage":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/personalImage/Image%20(23).png",
-      "name":"Purrweb UI/UX Ag",
-      "likes": 248,
-      "views": 15.9
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(5).png",
+      "title": "Xiaomi Redmi Note 11S 6/128 GB Graphite Gray (Бывший в употреблении)",
+      "brand": "MI",
+      "price": 300,
+      "id": 24
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone.png",
+      "title": "Samsung Galaxy A14 4/128 GB Чёрный (Бывший в",
+      "brand": "MI",
+      "price": 150,
+      "id": 25
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(4).png",
+      "title": "Product 1",
+      "brand": "MI",
+      "price": 150,
+      "id": 26
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone%20(5).png",
+      "title": "Xiaomi Redmi Note 11S 6/128 GB Graphite Gray (Бывший в употреблении)",
+      "brand": "MI",
+      "price": 300,
+      "id": 27
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/phone.png",
+      "title": "Samsung Galaxy A14 4/128 GB Чёрный (Бывший в",
+      "brand": "MI",
+      "price": 150,
+      "id": 28
+    }
+  ],
+  "laptop": [
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(9).png",
+      "title": "Samsung Galaxy A34 5G 8/128 GB Awesome Graphite (Бывший",
+      "brand": "laptop",
+      "price": 2700,
+      "id": 29
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(8).png",
+      "title": "Redmi Note 13 Pro Black 8/128 GB",
+      "brand": "laptop",
+      "price": 4000,
+      "id": 30
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(7).png",
+      "title": "Ноутбук HP 15-FQ5295NIA I5-1235U 8/512 GB SSD DOS 15.6",
+      "brand": "laptop",
+      "price": 1500,
+      "id": 31
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(9).png",
+      "title": "Ноутбук HP Pavilion x360 i5-1235U 8/512 GB 14 FHD",
+      "brand": "laptop",
+      "price": 3000,
+      "id": 32
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(8).png",
+      "title": "Ноутбук MSI GF63 12UCX-428 ( From UAE)",
+      "brand": "laptop",
+      "price": 1500,
+      "id": 33
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(7).png",
+      "title": "Samsung Galaxy A34 5G 8/128 GB Awesome Graphite (Бывший",
+      "brand": "laptop",
+      "price": 2700,
+      "id": 34
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(9).png",
+      "title": "Redmi Note 13 Pro Black 8/128 GB",
+      "brand": "laptop",
+      "price": 4000,
+      "id": 35
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(8).png",
+      "title": "Ноутбук HP 15-FQ5295NIA I5-1235U 8/512 GB SSD DOS 15.6",
+      "brand": "laptop",
+      "price": 1500,
+      "id": 36
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(10).png",
+      "title": "Ноутбук HP Pavilion x360 i5-1235U 8/512 GB 14 FHD",
+      "brand": "laptop",
+      "price": 3000,
+      "id": 36
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(7).png",
+      "title": "Ноутбук MSI GF63 12UCX-428 ( From UAE)",
+      "brand": "laptop",
+      "price": 1500,
+      "id": 37
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(9).png",
+      "title": "Samsung Galaxy A34 5G 8/128 GB Awesome Graphite (Бывший",
+      "brand": "laptop",
+      "price": 2700,
+      "id": 38
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(8).png",
+      "title": "Redmi Note 13 Pro Black 8/128 GB",
+      "brand": "laptop",
+      "price": 4000,
+      "id": 39
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(7).png",
+      "title": "Ноутбук HP 15-FQ5295NIA I5-1235U 8/512 GB SSD DOS 15.6",
+      "brand": "laptop",
+      "price": 1500,
+      "id": 40
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(9).png",
+      "title": "Ноутбук HP Pavilion x360 i5-1235U 8/512 GB 14 FHD",
+      "brand": "laptop",
+      "price": 3000,
+      "id": 41
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(8).png",
+      "title": "Ноутбук MSI GF63 12UCX-428 ( From UAE)",
+      "brand": "laptop",
+      "price": 1500,
+      "id": 42
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(7).png",
+      "title": "Samsung Galaxy A34 5G 8/128 GB Awesome Graphite (Бывший",
+      "brand": "laptop",
+      "price": 2700,
+      "id": 43
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(9).png",
+      "title": "Redmi Note 13 Pro Black 8/128 GB",
+      "brand": "laptop",
+      "price": 4000,
+      "id": 44
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(8).png",
+      "title": "Ноутбук HP 15-FQ5295NIA I5-1235U 8/512 GB SSD DOS 15.6",
+      "brand": "laptop",
+      "price": 1500,
+      "id": 45
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(7).png",
+      "title": "Ноутбук HP Pavilion x360 i5-1235U 8/512 GB 14 FHD",
+      "brand": "laptop",
+      "price": 3000,
+      "id": 46
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(9).png",
+      "title": "Ноутбук MSI GF63 12UCX-428 ( From UAE)",
+      "brand": "laptop",
+      "price": 1500,
+      "id": 47
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(8).png",
+      "title": "Samsung Galaxy A34 5G 8/128 GB Awesome Graphite (Бывший",
+      "brand": "laptop",
+      "price": 2700,
+      "id": 48
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(9).png",
+      "title": "Redmi Note 13 Pro Black 8/128 GB",
+      "brand": "laptop",
+      "price": 4000,
+      "id": 49
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(8).png",
+      "title": "Ноутбук HP 15-FQ5295NIA I5-1235U 8/512 GB SSD DOS 15.6",
+      "brand": "laptop",
+      "price": 1500,
+      "id": 50
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(7).png",
+      "title": "Ноутбук HP Pavilion x360 i5-1235U 8/512 GB 14 FHD",
+      "brand": "laptop",
+      "price": 3000,
+      "id": 51
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(9).png",
+      "title": "Ноутбук MSI GF63 12UCX-428 ( From UAE)",
+      "brand": "laptop",
+      "price": 1500,
+      "id": 52
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(8).png",
+      "title": "Ноутбук HP 15-FQ5295NIA I5-1235U 8/512 GB SSD DOS 15.6",
+      "brand": "laptop",
+      "price": 1500,
+      "id": 53
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(7).png",
+      "title": "Ноутбук HP Pavilion x360 i5-1235U 8/512 GB 14 FHD",
+      "brand": "laptop",
+      "price": 3000,
+      "id": 54
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(9).png",
+      "title": "Ноутбук MSI GF63 12UCX-428 ( From UAE)",
+      "brand": "laptop",
+      "price": 1500,
+      "id": 55
     }
   ]
-  
 }
