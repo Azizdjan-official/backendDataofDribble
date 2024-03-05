@@ -2,13 +2,13 @@
   "users": [],
   "banner": [
       {
-        "image":"https://raw.githubusercontent.com/Azizdjan-official/gipermarket_database/master/data/image/banner.png"
+        "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/imgfornewFigma/banner.png"
       },
       {
-        "image":"https://raw.githubusercontent.com/Azizdjan-official/gipermarket_database/master/data/image/banner.png"
+        "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/imgfornewFigma/banner.png"
       },
       {
-        "image":"https://raw.githubusercontent.com/Azizdjan-official/gipermarket_database/master/data/image/banner.png"
+        "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/imgfornewFigma/banner.png"
       }
     ],
   "category": [
