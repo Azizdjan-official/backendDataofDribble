@@ -47,13 +47,13 @@
     ],
   "action":[
       {
-        "image": "https://raw.githubusercontent.com/Azizdjan-official/gipermarket_database/master/data/image/aksiya1.png"
+        "image": "https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/imgfornewFigma/action1.png"
       },
       {
-        "image":"https://raw.githubusercontent.com/Azizdjan-official/gipermarket_database/master/data/image/aksiya2.png"
+        "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/imgfornewFigma/action2.png"
       },
       {
-        "image":"https://raw.githubusercontent.com/Azizdjan-official/gipermarket_database/master/data/image/aksiya3.png"
+        "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/imgfornewFigma/action3.png"
       }
     ],
   "brand": [
