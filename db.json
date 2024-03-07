@@ -16,7 +16,6 @@
         "id": 1,
         "title": "Смартфоны и планшеты",
         "datakey": "phones",
-        "categoryItem":["Планшеты","Электронные книги","Аксессуары для планшетов"],
         "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/phonecatagory.png"
       },
       {
