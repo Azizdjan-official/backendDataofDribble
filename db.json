@@ -11,39 +11,43 @@
         "image":"https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/imgfornewFigma/banner.png"
       }
     ],
-  "category": [
+    "category": [
       {
         "id": 1,
         "title": "Смартфоны и планшеты",
-        "datakey":"phone",
-        "categorykey": "laptop",
-        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/phone_category.png"
+        "datakey": "phones",
+        "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/phonecatagory.png"
       },
       {
         "id": 2,
         "title": "Ноутбуки",
-        "datakey":"phone",
-        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/laptop_category.png"
+        "datakey": "laptops",
+        "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/laptopcatagory.png"
       },
       {
         "id": 3,
         "title": "Авто мото товары",
-        "datakey":"phone",
-        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/avto_category.png"
+        "datakey": "auto",
+        "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/avtocategory.png"
       },
       {
         "id": 4,
         "title": "Компьютеры для геймеров",
-        "datakey":"phone",
-        "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/game_category.png"
+        "datakey": "computers",
+        "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/laptopcatagory.png"
       },
       {
         "id": 5,
         "title": "Бытовая техника",
-        "datakey":"phone",
-        "image": "https://raw.githubusercontent.com/Azizdjan-official/backendDataofDribble/master/src/imgfornewFigma/kirmoshin.png"
+        "datakey": "laptops",
+        "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/bitocategory.png"
+      },
+      {
+        "id": 6,
+        "title": "Развлечение",
+        "datakey": "laptops",
+        "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/tennis.jpg"
       }
-
     ],
   "action":[
       {
